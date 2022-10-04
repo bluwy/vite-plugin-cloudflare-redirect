@@ -1,0 +1,2 @@
+/foo /nested
+/bar/* https://example.com/:splat
