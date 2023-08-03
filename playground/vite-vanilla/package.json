@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "vite-plugin-cloudflare-redirect": "workspace:*",
-    "vite": "^4.3.8"
+    "vite": "^4.4.8",
+    "vite-plugin-cloudflare-redirect": "workspace:*"
   }
 }

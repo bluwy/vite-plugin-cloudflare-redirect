@@ -43,6 +43,6 @@
     "cloudflare-redirect-parser": "^0.1.0"
   },
   "devDependencies": {
-    "vite": "^4.3.8"
+    "vite": "^4.4.8"
   }
 }
