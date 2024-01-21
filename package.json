@@ -1,7 +1,7 @@
 {
   "name": "vite-plugin-cloudflare-redirect",
   "description": "Vite plugin to handle Cloudflare's _redirects file",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "license": "MIT",
   "author": "Bjorn Lu",
   "type": "module",
