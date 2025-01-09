@@ -1,7 +1,7 @@
 {
   "name": "vite-plugin-cloudflare-redirect",
   "description": "Vite plugin to handle Cloudflare's _redirects file",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "license": "MIT",
   "author": "Bjorn Lu",
   "type": "module",
@@ -20,7 +20,7 @@
   "homepage": "https://github.com/bluwy/vite-plugin-cloudflare-redirect",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bluwy/vite-plugin-cloudflare-redirect.git"
+    "url": "git+https://github.com/bluwy/vite-plugin-cloudflare-redirect.git"
   },
   "bugs": {
     "url": "https://github.com/bluwy/vite-plugin-cloudflare-redirect/issues"
@@ -40,7 +40,7 @@
     }
   },
   "dependencies": {
-    "cloudflare-redirect-parser": "^0.1.0"
+    "cloudflare-redirect-parser": "^1.0.0"
   },
   "devDependencies": {
     "vite": "^6.0.7"
