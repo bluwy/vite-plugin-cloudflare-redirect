@@ -49,6 +49,6 @@ export function cloudflareRedirect(options) {
       if (middleware) {
         server.middlewares.use(middleware)
       }
-    }
+    },
   }
 }
