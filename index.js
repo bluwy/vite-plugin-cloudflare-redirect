@@ -8,6 +8,7 @@ export function cloudflareRedirect(options) {
   let middleware
   return {
     name: 'vite-plugin-cloudflare-redirect',
+    apply: 'serve',
     async configResolved(config) {
       /** @type {string} */
       let content
