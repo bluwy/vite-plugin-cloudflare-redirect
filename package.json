@@ -6,12 +6,7 @@
   "author": "Bjorn Lu",
   "type": "module",
   "types": "./index.d.ts",
-  "exports": {
-    ".": {
-      "types": "./index.d.ts",
-      "import": "./index.js"
-    }
-  },
+  "exports": "./index.js",
   "files": [
     "index.js",
     "index.d.ts"
